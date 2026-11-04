@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../FoodClientApi/FoodClientApi.csproj" />
+  <Project Path="Assignment 11.3.csproj" />
+</Solution>
